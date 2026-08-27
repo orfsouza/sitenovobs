@@ -148,7 +148,7 @@ h3{ font-size: clamp(1.3rem, 2vw, 1.7rem); line-height: 1.2; }
 .brand-name strong{ font-family: var(--font-display); font-weight:800; letter-spacing:.02em; color:#fff; font-size: 1.05rem; }
 .brand-name span{ font-family: var(--font-mono); font-size:.62rem; letter-spacing:.1em; text-transform:uppercase; color: var(--gray-400); }
 
-.main-nav{ display:flex; align-items:center; gap: 34px; }
+.main-nav{ display:flex; align-items:center; gap: 34px; background: #ffffff;}
 .main-nav a{
   color: rgba(255,255,255,.82);
   font-size: .92rem; font-weight:500;
